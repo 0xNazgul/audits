@@ -1,5 +1,5 @@
 # Audits
-Public collection of blockchain security audits conducted by me and on a team.
+Public collection of blockchain security audits conducted by me and with a team.
 
 ## Engagements
 | Project | Date | Company With | Report |
