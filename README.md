@@ -1,6 +1,8 @@
 # Audits
 Public collection of blockchain security audits conducted by me and with a team.
 
+I'm available for hire specifically a security research position. I can be reached on twitter [@0xNazgul](https://twitter.com/0xNazgul).
+
 ## Engagements
 | Project | Date | Company With | Report |
 | --- | --- | --- | --- |
