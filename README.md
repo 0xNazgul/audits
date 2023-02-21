@@ -17,18 +17,18 @@ I'm available for hire specifically a security research position. I can be reach
 | Contest | Date | Platform | Rank | Report |
 | --- | --- | --- | --- | --- |
 | [UXD Protocol](https://uxd.fi/) | January 2023 | Sherlock | :medal_military: 9/36 | [Link](https://app.sherlock.xyz/audits/contests/33) |
-| [Tigris Trade](https://tigris.trade/) | December 2023 | Code4rena | :medal_military: 6/89 | [Link](https://code4rena.com/reports/2022-12-tigris/) |
-| [PrePo](https://prepo.io/) | December 2022 | Code4rena | :medal_military: 4/69 | [Link](https://code4rena.com/reports/2022-12-prepo/) |
-| [Stakehouse](https://docs.joinstakehouse.com/protocol/learn/Stakehouse) | November 2022 | Code4rena | :2nd_place_medal: 2/98 | [Link](https://code4rena.com/reports/2022-11-stakehouse/) |
-| [Debt DAO](https://debtdao.finance/#/mainnet/market) | November 2022 | Code4rena | :3rd_place_medal: 3/123 | [Link](https://code4rena.com/reports/2022-11-debtdao/) |
-| [Redacted Cartel](https://redacted.finance/) | November 2022 | Code4rena | :medal_military: 4/101 | [Link](https://code4rena.com/reports/2022-11-redactedcartel/) |
+| [Tigris Trade](https://tigris.trade/) | December 2023 | Code4rena | 42/89 | [Link](https://code4rena.com/reports/2022-12-tigris/) |
+| [PrePo](https://prepo.io/) | December 2022 | Code4rena | 57/69 | [Link](https://code4rena.com/reports/2022-12-prepo/) |
+| [Stakehouse](https://docs.joinstakehouse.com/protocol/learn/Stakehouse) | November 2022 | Code4rena | 32/98 | [Link](https://code4rena.com/reports/2022-11-stakehouse/) |
+| [Debt DAO](https://debtdao.finance/#/mainnet/market) | November 2022 | Code4rena | 103/123 | [Link](https://code4rena.com/reports/2022-11-debtdao/) |
+| [Redacted Cartel](https://redacted.finance/) | November 2022 | Code4rena | 77/101 | [Link](https://code4rena.com/reports/2022-11-redactedcartel/) |
 | [Non Fungible Trading](https://blur.io/) | November 2022 | Code4rena | 48/63 | [Link](https://code4rena.com/reports/2022-11-non-fungible/) |
 | [Blur Exchange](https://blur.io/) | October 2022 | Code4rena | 54/80 | [Link](https://code4rena.com/reports/2022-10-blur/) |
 | [The Graph](https://thegraph.com/en/) | October 2022 | Code4rena | 24/62 | [Link](https://code4rena.com/reports/2022-10-thegraph/) |
 | [Holograph](https://www.holograph.xyz/) | October 2022 | Code4rena | 22/147 | [Link](https://code4rena.com/reports/2022-10-holograph/) |
-| [Juicbox](https://juicebox.money/) | October 2022 | Code4rena | :medal_military: 5/67 | [Link](https://code4rena.com/reports/2022-10-juicebox/) |
-| [Inverse Finance](https://www.inverse.finance/) | October 2022 | Code4rena | :2nd_place_medal: 2/140 | [Link](https://code4rena.com/reports/2022-10-inverse/) |
-| [Paladin](https://paladin.vote/#/) | October 2022 | Code4rena | :medal_military: 6/140 | [Link](https://code4rena.com/reports/2022-10-paladin/) |
+| [Juicbox](https://juicebox.money/) | October 2022 | Code4rena | 41/67 | [Link](https://code4rena.com/reports/2022-10-juicebox/) |
+| [Inverse Finance](https://www.inverse.finance/) | October 2022 | Code4rena | 70/140 | [Link](https://code4rena.com/reports/2022-10-inverse/) |
+| [Paladin](https://paladin.vote/#/) | October 2022 | Code4rena | 44/140 | [Link](https://code4rena.com/reports/2022-10-paladin/) |
 | [Harpie](https://harpie.io/) | September 2022 | Sherlock | 35/35 | [Link](https://app.sherlock.xyz/audits/contests/3) |
 | [Astaria](https://astaria.xyz/) | September 2022 | Sherlock | :medal_military: 8/24 | [Link](https://app.sherlock.xyz/audits/contests/4) |
 | [Knox Finance](https://www.knox-networks.com/) | September 2022 | Sherlock | 30/32 | [Link](https://app.sherlock.xyz/audits/contests/8) |
