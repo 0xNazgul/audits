@@ -17,6 +17,7 @@ I'm available for hire specifically a security research position. I can be reach
 | Contest | Date | Platform | Rank | Report |
 | --- | --- | --- | --- | --- |
 | [UXD Protocol](https://uxd.fi/) | January 2023 | Sherlock | :medal_military: 9/36 | [Link](https://app.sherlock.xyz/audits/contests/33) |
+| [Tigris Trade](https://tigris.trade/) | December 2023 | Code4rena | :medal_military: 6/89 | [Link](https://code4rena.com/reports/2022-12-tigris/) |
 | [PrePo](https://prepo.io/) | December 2022 | Code4rena | :medal_military: 4/69 | [Link](https://code4rena.com/reports/2022-12-prepo/) |
 | [Stakehouse](https://docs.joinstakehouse.com/protocol/learn/Stakehouse) | November 2022 | Code4rena | :2nd_place_medal: 2/98 | [Link](https://code4rena.com/reports/2022-11-stakehouse/) |
 | [Debt DAO](https://debtdao.finance/#/mainnet/market) | November 2022 | Code4rena | :3rd_place_medal: 3/123 | [Link](https://code4rena.com/reports/2022-11-debtdao/) |
